@@ -1,3 +1,4 @@
+package Lecture_1;
 public class sum{
     public static void main(String[] args) {
         int a=10;
