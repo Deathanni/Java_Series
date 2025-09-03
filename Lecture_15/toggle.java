@@ -15,5 +15,6 @@ public class toggle {
         int result=num^bitMask;
 
         System.out.println(result);
+        sc.close();
     }
 }
