@@ -1,4 +1,4 @@
-package Lecture_19;
+//package Lecture_19;
 
 public class recursion_permutation_of_all_string {
     public static void printPerm(String str, String permutation) {
